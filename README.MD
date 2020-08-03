@@ -1,4 +1,4 @@
-# Stored Procedure Generator
+# Stored Procedure Generator Feature..
 
 This jar file generates the stored procedure from the given insertupdate.xml or *.sql file.
 
